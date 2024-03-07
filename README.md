@@ -1,2 +1,11 @@
-# Hello-World
-This repository is for practising the GitHub Flow.
+package bro:
+
+Class LearnGit {
+
+public static void main() {'
+
+  System.out.Println("Hello , world")
+
+}
+
+}
